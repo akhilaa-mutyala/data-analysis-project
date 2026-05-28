@@ -21,15 +21,7 @@ To analyze which factors affected passenger survival on the Titanic such as gend
 | Seaborn | Beautiful charts |
 | Jupyter Notebook | Coding environment |
 
-##  Project Structure
-data-analysis-project/
-├── data/              → Titanic dataset (CSV)
-├── notebooks/         → Jupyter analysis notebook
-├── outputs/           → Saved charts and graphs
-├── requirements.txt   → Required libraries
-└── README.md          → Project description
-
-## 📊 Charts Created
+##  Charts Created
 1. ✅ Survival Count Chart
 2. ✅ Survival by Gender
 3. ✅ Age Distribution
